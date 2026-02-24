@@ -4,7 +4,8 @@ An interactive Tableau dashboard transforming 300 simulated call records into op
 
 ## **Dataset**
 
-Excel dataset with fields for Department, Call Type, Duration, Escalation/Resolution flags, Satisfaction Score, CSR ID, Channel, and Call Hour. Validated using pivot tables before import into Tableau.
+- Excel dataset with fields for Department, Call Type, Duration, Escalation/Resolution flags, Satisfaction Score, CSR ID, Channel, and Call Hour. 
+- Validated using pivot tables before import into Tableau, with dynamic slicers and charts
 
 ## **KPIs**
 
