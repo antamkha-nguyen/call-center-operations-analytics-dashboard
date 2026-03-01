@@ -47,4 +47,4 @@ Total Calls, Percent Resolved, Percent Escalated, Average Satisfaction Score, Av
 
 **Excel** (data modeling) | **Tableau Public** (visualization)
 
-**[View Dashboard](https://public.tableau.com/app/profile/an.tam.kha.nguyen.2002/viz/BankingCallCenterAnalyticsDashboard/Dashboard2)**
+**[View Dashboard](https://public.tableau.com/app/profile/an.tam.kha.nguyen.2002/viz/OperationalAnalyticsDashboard/RepresentativePerformance)**
