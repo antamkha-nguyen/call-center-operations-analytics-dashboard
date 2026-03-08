@@ -2,6 +2,8 @@
 
 An interactive Tableau dashboard transforming 300 simulated call records into operational insights for banking call center management.
 
+**[View Dashboard](https://public.tableau.com/app/profile/an.tam.kha.nguyen.2002/viz/OperationalAnalyticsDashboard/RepresentativePerformance)**
+
 ## **Dataset**
 
 - An Excel dataset (Department, Call Type, Duration, Escalation/Resolution flags, Satisfaction Score, CSR ID, Channel, Call Hour) 
@@ -46,5 +48,3 @@ Total Calls, Percent Resolved, Percent Escalated, Average Satisfaction Score, Av
 ## **Tools**
 
 **Excel** (data modeling) | **Tableau Public** (visualization)
-
-**[View Dashboard](https://public.tableau.com/app/profile/an.tam.kha.nguyen.2002/viz/OperationalAnalyticsDashboard/RepresentativePerformance)**
